@@ -1,0 +1,2 @@
+serviceClass: pk1.client.GreetingService
+path: F4BFE97375677215D8E26C749E3045C5.gwt.rpc
